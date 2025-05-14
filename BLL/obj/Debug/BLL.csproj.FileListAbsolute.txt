@@ -1,0 +1,11 @@
+D:\LTCS\QLBKT\BLL\bin\Debug\BLL.dll
+D:\LTCS\QLBKT\BLL\bin\Debug\BLL.pdb
+D:\LTCS\QLBKT\BLL\bin\Debug\DAL.dll
+D:\LTCS\QLBKT\BLL\bin\Debug\DTO.dll
+D:\LTCS\QLBKT\BLL\bin\Debug\DAL.pdb
+D:\LTCS\QLBKT\BLL\bin\Debug\DTO.pdb
+D:\LTCS\QLBKT\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\LTCS\QLBKT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\LTCS\QLBKT\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\LTCS\QLBKT\BLL\obj\Debug\BLL.dll
+D:\LTCS\QLBKT\BLL\obj\Debug\BLL.pdb

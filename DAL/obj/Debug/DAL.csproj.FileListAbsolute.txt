@@ -1,0 +1,9 @@
+D:\LTCS\QLBKT\DAL\bin\Debug\DAL.dll
+D:\LTCS\QLBKT\DAL\bin\Debug\DAL.pdb
+D:\LTCS\QLBKT\DAL\bin\Debug\DTO.dll
+D:\LTCS\QLBKT\DAL\bin\Debug\DTO.pdb
+D:\LTCS\QLBKT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\LTCS\QLBKT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LTCS\QLBKT\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\LTCS\QLBKT\DAL\obj\Debug\DAL.dll
+D:\LTCS\QLBKT\DAL\obj\Debug\DAL.pdb
